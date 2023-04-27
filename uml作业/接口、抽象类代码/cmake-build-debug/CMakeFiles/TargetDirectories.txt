@@ -1,0 +1,3 @@
+/Users/flying/Desktop/uml作业代码/cmake-build-debug/CMakeFiles/uml.dir
+/Users/flying/Desktop/uml作业代码/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/flying/Desktop/uml作业代码/cmake-build-debug/CMakeFiles/rebuild_cache.dir
